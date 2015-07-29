@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+<param key="port">9999</param>
+<param key="lengthFieldOffset">10</param>
+<param key="lengthFieldLength">4</param>
+<param key="lengthAdjustment">8</param>
+<param key="initialBytesToStrip">0</param>
+<param key="serviceUrl">http://localhost:8080/leo-tbox-protocol-handle/protocol/process</param>
+</config>
